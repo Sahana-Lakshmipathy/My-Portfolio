@@ -24,8 +24,8 @@ const Contact = () => {
         <div className="contact__options">
           <article className="contact__option">
             <MdAttachEmail className='contact__option-icon' />
-            <h4>Email</h4>
-            <h5>someone@email.com</h5>
+            <h4>Email Me</h4>
+            <h5>At my Gmail</h5>
             <a href="mailto:sahana.lp100@gmail.com?subject=Subject%20of%20the%20email&body=Hello%20there,%20I%20saw%20your%20portfolio%20and%20I'm%20interested%20in%20connecting." target="_blank">Send an email</a>
           </article>
           <article className="contact__option">
