@@ -32,7 +32,7 @@ const Contact = () => {
           <FaWhatsapp className='contact__option-icon' />
             <h4>WhatsApp</h4>
             <h5>Sahana Lakshmipathy</h5>
-            <a href="https://wa.me/9003120797?text=Hello%20there,%20nice%20portfolio%20project!" target="_blank">Send a message</a>
+            <a href="https://wa.me/7604898453?text=Hello%20there,%20nice%20portfolio%20project!" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
           <FaLinkedin  className='contact__option-icon' />
