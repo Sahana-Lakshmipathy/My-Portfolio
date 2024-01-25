@@ -38,7 +38,7 @@ const Contact = () => {
           <FaLinkedin  className='contact__option-icon' />
             <h4>LinkedIn</h4>
             <h5>Sahana Lakshmipathy</h5>
-            <a href="www.linkedin.com/in/sahana-lakshmipathy" target="_blank">Send a message</a>
+            <a href="https://www.linkedin.com/in/sahana-lakshmipathy/" target="_blank">Send a message</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
